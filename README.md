@@ -1,16 +1,5 @@
-# LLM-With-API
 # LLM-API-Langchain-FastAPI/
-├── .env
-├── .gitignore
-├── README.md
-├── app/
-│   ├── __init__.py
-│   ├── app.py
-│   ├── models.py
-│   ├── prompts.py
-│   └── client.py
-├── requirements.txt
-└── streamlit_app.py
+
 # LLM API with Langchain and FastAPI
 
 This project demonstrates how to build production-grade APIs for large language models (LLMs) using Langchain and FastAPI.
